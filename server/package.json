@@ -6,7 +6,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
     "dev": "nodemon index.js",
-    "build": "This is build command"
+    "build": "echo 'No build step required'"
   },
   "type": "module",
   "keywords": [],
